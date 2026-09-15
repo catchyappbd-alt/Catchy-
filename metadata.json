@@ -1,0 +1,6 @@
+{
+  "name": "Catchy",
+  "description": "Catchy Social App featuring authentic social connections, direct messaging, reels, profiles, and community feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
